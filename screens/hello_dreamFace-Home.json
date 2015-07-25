@@ -1,0 +1,32 @@
+{
+	"_id": "55b3c6c0f91f892966543ac4",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-07-25T17:45:45.339Z",
+	"ownerId": "",
+	"application": "hello_dreamFace",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "Hello_dreamFace",
+								"id": "93148"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": "Default"
+}
